@@ -1,4 +1,4 @@
-# Github-Classification-model
+# Resume-Classification-model
  ML Resume Classification Model
 The main steps and functionalities of the code are as follows:
 
