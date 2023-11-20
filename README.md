@@ -6,7 +6,7 @@ The main steps and functionalities of the code are as follows:
 
 2. Read and Explore Data: The script reads a CSV file named 'UpdatedResumeDataSet.csv', which contains information about resumes, including the text content and the corresponding category. The data is explored to understand its structure and unique categories.
 
-3. Data Cleaning: The script defines a function (`cleanResume`) to clean the resume text by removing URLs, mentions, special characters, and extra whitespace. The cleaned text is stored in a new column called 'cleaned_resume'.
+3. Data Cleaning: The script defines a function ("cleanResume") to clean the resume text by removing URLs, mentions, special characters, and extra whitespace. The cleaned text is stored in a new column called 'cleaned_resume'.
 
 4. Exploratory Data Analysis (EDA): The script performs EDA to visualize the distribution of resume categories using bar plots and pie charts.
 
